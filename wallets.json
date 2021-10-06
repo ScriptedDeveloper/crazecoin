@@ -1,0 +1,5 @@
+{
+    "usage" : "Change the server_ip to the main server IP and address to your address!",
+    "server_ip" : "127.0.0.1",
+    "address" : "public_key"
+}

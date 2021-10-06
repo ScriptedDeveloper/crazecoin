@@ -1,0 +1,19 @@
+{
+    "latest_block" : 0,
+    "block1" : [{
+        "number" : 1,
+        "block_hash" : "",
+        "sender" : "",
+        "reciever" : "",
+        "amount" : 1,
+        "sender_balance" : 49,
+        "reciver_balance" : 10,
+        "confirmations" : 2,
+        "rejected" : false,
+        "hashes" : [],
+        "public_key" : "",
+        "message" : "",
+        "signature" : ""
+    }]
+
+}
